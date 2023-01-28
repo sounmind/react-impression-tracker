@@ -1,0 +1,29 @@
+{
+  "name": "react-impression-tracker",
+  "version": "0.1.0",
+  "description": "impression tracking tool in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sounmind/react-impression-tracker.git"
+  },
+  "keywords": [
+    "impression",
+    "tracker",
+    "impression-tracker",
+    "react"
+  ],
+  "author": "devleesche@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sounmind/react-impression-tracker/issues"
+  },
+  "homepage": "https://github.com/sounmind/react-impression-tracker#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
